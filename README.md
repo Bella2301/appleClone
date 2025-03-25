@@ -4,6 +4,7 @@
 ## Team Ethiopia, Evangadi Dec 5th Batch
 
 This repository contains the practice assignment for Git usage and team collaboration.
+https://bella2301.github.io/appleClone/
 
 
 ### Setup Instructions:
