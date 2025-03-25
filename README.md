@@ -1,5 +1,5 @@
 
-# Git Practice Assignment for Evangadi Dec 5th Batch
+# Git Practice Assignment 
 
 ## Team Ethiopia, Evangadi Dec 5th Batch
 
@@ -35,4 +35,3 @@ This repository contains the practice assignment for Git usage and team collabor
 Step by step, commit by commit—building an Apple clone and an unbeatable team in Ethiopia! 🍏
 
 
-Step by step, commit by commit—building an Apple clone and an unbeatable team in Ethiopia! 🍏
